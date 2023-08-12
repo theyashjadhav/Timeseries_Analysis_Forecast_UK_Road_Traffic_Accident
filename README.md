@@ -1,24 +1,8 @@
 # UK Road Traffic and Accident Analysis
 
-This project involves an in-depth analysis of United Kingdom road traffic and accident data, spanning from 2000 to 2018 for traffic and 2005 to 2014 for accidents. The main focus is on descriptive analysis, data visualization, and forecasting. The goal is to predict the accident rate for the next two years using available time series data.
+This project involves an in-depth analysis of United Kingdom road traffic and accident data, spanning from 2005 to 2017 for accidents. The main focus is on descriptive analysis, data visualization, and forecasting. The goal is to predict the accident rate for the next two years using available time series data.
 
-## Categories
-
-### 1. Road Traffic Analytics and Visualization
-Notebook: [uk_road_traffic](https://nbviewer.jupyter.org/github/AdeboyeML/Predictive_Analytics_UK_Road_Traffic_Accident/blob/master/UK_Traffic_Analysis_Visualization.ipynb)
-
-- Analyzing UK road traffic trends (2000 - 2018).
-- Exploring Annual Average Daily Flows (AADFs) and traffic volume.
-- Examination of vehicle types, road networks, regions, and road types.
-
-### 2. Road Accident Analytics and Visualization
-Notebook: [uk_road_accident](https://nbviewer.jupyter.org/github/AdeboyeML/Predictive_Analytics_UK_Road_Traffic_Accident/blob/master/UK_road_accident_analytics.ipynb)
-
-- Detailed analysis of UK road accident trends (2005 - 2014).
-- Identifying potential casualties, affected areas, and highway authorities.
-- Exploring accident-causing conditions, road types, and geographical regions.
-
-### 3. Time Series Forecasting of Road Accidents
+### Time Series Forecasting of Road Accidents
 Notebook: [TimeSeries Forecast](https://nbviewer.jupyter.org/github/AdeboyeML/Predictive_Analytics_UK_Road_Traffic_Accident/blob/master/UK_Road_Accident_Timeseries_Forecasting.ipynb)
 
 - Forecasting road accident casualties for the next 2 years.
