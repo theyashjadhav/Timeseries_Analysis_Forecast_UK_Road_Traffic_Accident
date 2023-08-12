@@ -56,11 +56,8 @@ Notebook: [TimeSeries Forecast](https://nbviewer.jupyter.org/github/AdeboyeML/Pr
 
 | Models             | MAE   | MAPE   |
 | ------------------ | ----- | ------ |
-| SARIMA             | 27.3  | 5.18   |
-| Facebook Prophet   | 9.45  | 1.79   |
-| LSTM               | 21.54 | 4.21   |
-| GRU                | 20.87 | 4.04   |
-| Bidirectional LSTM | 21.40 | 4.18   |
+| LSTM               | 30.53 | 6.82   |
+| GRU                | 30.02 | 6.70   |
 | Convolutional LSTM | 20.98 | 4.10   |
 
 - Facebook Prophet emerges as the top-performing model for time series forecasting.
