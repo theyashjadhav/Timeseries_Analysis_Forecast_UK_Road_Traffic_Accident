@@ -15,8 +15,6 @@ This project involves an in-depth analysis of United Kingdom road traffic and ac
 - Statsmodels
 - Pmdarima
 - Plotly
-- GeoPandas
-- Keras
 - Facebook Prophet
 - Matplotlib
 
