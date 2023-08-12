@@ -6,7 +6,6 @@ This project involves an in-depth analysis of United Kingdom road traffic and ac
 
 - Forecasting road accident casualties for the next 2 years.
 - Experimenting with different Long-Short Term Memory (LSTM) models.
-- Utilizing SARIMA and Facebook Prophet models for accurate forecasts.
 
 ## Python Libraries Used
 
